@@ -15,7 +15,7 @@ __Hint:__ If you are looking for Vue.Js please use the official repository [@vue
 ## NODE_ENV
 If `NODE_ENV=development` is set the packages uses the `vue.js` file instead of `vue.min.js`.
 
-## example
+## Example snippet
 ``` javascript
 const Vue = require('vue-dist')
 
