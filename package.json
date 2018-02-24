@@ -1,0 +1,8 @@
+{
+  "name": "vue-dist",
+  "version": "2.5.13",
+  "description": "Vue.js UMD distribution-only package",
+  "main": "index.js",
+  "author": "Hans Koch",
+  "license": "MIT"
+}
